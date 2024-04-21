@@ -13,7 +13,7 @@ https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/f6d194cd-0c78-42cf-
 
 <img width="646" alt="Screenshot 2024-04-21 at 6 18 01 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/b6d6790a-f000-4b3b-b613-0954534bd5e8">
 
-This engine utilizes C++ to render and handle memory management nad core engine functionality and Python to utilize this engine and create a base version of the Google Snake Game. Seen above are three scenes implemented with our engine that are cycle through during the course of the snake game
+This engine utilizes C++ to render and handle memory management nad core engine functionality and Python to utilize this engine and create a base version of the Google Snake Game. Seen above are three scenes implemented with our engine that are cycle through during the course of the snake game <br />
 <img width="399" alt="Screenshot 2024-04-21 at 7 13 57 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/17d39112-cbc8-4ad3-9a52-08e81ad3509e">
 
 <img width="451" alt="Screenshot 2024-04-21 at 7 14 38 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/089aefb5-2044-42b3-8c1a-016d58a85ce8">
