@@ -7,16 +7,16 @@ https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/f6d194cd-0c78-42cf-
 
 
 ## Project Explanation
-<img width="639" alt="Screenshot 2024-04-21 at 6 16 45 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/a088a76a-8f3c-47c7-afbe-2e6fc2ecc3e3">
+<img width="639" alt="Screenshot 2024-04-21 at 6 16 45 PM" justify-content="center" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/a088a76a-8f3c-47c7-afbe-2e6fc2ecc3e3">
 
-<img width="618" alt="Screenshot 2024-04-21 at 6 17 07 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/12f0921c-e00b-4d22-8ae1-f65b18cb4dd0">
+<img width="618" alt="Screenshot 2024-04-21 at 6 17 07 PM" justify-content="center" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/12f0921c-e00b-4d22-8ae1-f65b18cb4dd0">
 
-<img width="646" alt="Screenshot 2024-04-21 at 6 18 01 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/b6d6790a-f000-4b3b-b613-0954534bd5e8">
+<img width="646" alt="Screenshot 2024-04-21 at 6 18 01 PM" justify-content="center" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/b6d6790a-f000-4b3b-b613-0954534bd5e8">
 
 This engine utilizes C++ to render and handle memory management nad core engine functionality and Python to utilize this engine and create a base version of the Google Snake Game. Seen above are three scenes implemented with our engine that are cycle through during the course of the snake game <br />
-<img width="399" alt="Screenshot 2024-04-21 at 7 13 57 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/17d39112-cbc8-4ad3-9a52-08e81ad3509e">
+<img width="399" alt="Screenshot 2024-04-21 at 7 13 57 PM" justify-content="center" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/17d39112-cbc8-4ad3-9a52-08e81ad3509e">
 
-<img width="451" alt="Screenshot 2024-04-21 at 7 14 38 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/089aefb5-2044-42b3-8c1a-016d58a85ce8">
+<img width="451" alt="Screenshot 2024-04-21 at 7 14 38 PM" justify-content="center" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/089aefb5-2044-42b3-8c1a-016d58a85ce8">
 
 I've also implemented a GUI application in WXWidgets that allows us to create and save new snake level configurations. This would be great in making more puzzle based snake levels with collecting apples and not running into walls. My engine supports loading in game objects from a text file therefore we could simply pass in this text file to my engine to load the file into a scene. The game logic could then be changed in Python to have different win conditions and not be score based and be more level completion centric.
 
