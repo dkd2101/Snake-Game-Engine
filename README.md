@@ -6,7 +6,7 @@ https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/f6d194cd-0c78-42cf-
 **Project Documentation**: https://dkd2101.github.io/html/index.html
 
 
-**Project Explanation**:
+## Project Explanation
 <img width="639" alt="Screenshot 2024-04-21 at 6 16 45 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/a088a76a-8f3c-47c7-afbe-2e6fc2ecc3e3">
 
 <img width="618" alt="Screenshot 2024-04-21 at 6 17 07 PM" src="https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/12f0921c-e00b-4d22-8ae1-f65b18cb4dd0">
@@ -20,7 +20,7 @@ This engine utilizes C++ to render and handle memory management nad core engine 
 
 I've also implemented a GUI application in WXWidgets that allows us to create and save new snake level configurations. This would be great in making more puzzle based snake levels with collecting apples and not running into walls. My engine supports loading in game objects from a text file therefore we could simply pass in this text file to my engine to load the file into a scene. The game logic could then be changed in Python to have different win conditions and not be score based and be more level completion centric.
 
-**Data Hierarchy**
+## Data Hierarchy
 ![_application_8cpp__incl](https://github.com/dkd2101/Snake-Game-Engine/assets/35245790/4fc528f9-563b-4d6b-89e9-203dd1a63e48)
 
 Everything in my engine is accessed through the Application. We have a map of GameObjects stored within each scene and Update, Render, and Input callback functions that must be run in each loop in order to display the game. The application handles all interactions between gameobjects and scene management.
